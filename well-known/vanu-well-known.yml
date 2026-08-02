@@ -1,0 +1,22 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.vanu.com
+host: https://www.vanu.com
+notes: >-
+  All well-known discovery probes returned 404 on 2026-07-21. Vanu is a wireless
+  network infrastructure company (hardware + managed coverage services) with no
+  public API developer surface detected; absence recorded so re-runs can skip or
+  re-verify.
+documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/openid-configuration
+    status: 404
+  - path: /.well-known/oauth-authorization-server
+    status: 404
+  - path: /.well-known/api-catalog
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+  - path: /llms.txt
+    status: 404

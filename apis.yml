@@ -1,8 +1,26 @@
 aid: vanu
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/vanu.png
 name: Vanu
-description: 'Vanu is a company surfaced as a portfolio company of norwest-venture-partners and added
-  to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Vanu, Inc. builds wireless network solutions that extend cellular coverage
+  to areas that cannot be profitably served with conventional technology - rural regions,
+  buildings, tunnels, and maritime environments. Founded in 1998 out of MIT software-radio
+  research and headquartered in Lexington, MA (with offices in Gurgaon, Bangalore,
+  and Kigali), Vanu ships the Anywave dual-mode GSM/LTE base station (the first FCC-certified
+  software-defined radio), Community Connect village systems, portable LTE networks,
+  VanuMaps coverage mapping, and coverage-as-a-service for mobile carriers, with deployments
+  across rural India, Rwanda, and post-hurricane Puerto Rico and partnerships with
+  Amazon Leo / Project Kuiper. Vanu publishes no public developer API surface.'
 url: https://raw.githubusercontent.com/api-evangelist/vanu/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,11 +29,22 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 3
+  pass: local-v1
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-- Unknown
+- Telecommunications
+- Wireless
+- Cellular Networks
+- Rural Connectivity
+- Software Defined Radio
+- Network Infrastructure
+- Coverage Mapping
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +52,17 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/vanu-domain-security.yml
 - type: Website
-  url: https://vanu.com
+  url: https://www.vanu.com
+- type: Blog
+  url: https://www.vanu.com/news-insights/
+- type: Support
+  url: https://www.vanu.com/services/technical-support/
+- type: PrivacyPolicy
+  url: https://www.vanu.com/privacy-policy-2/
+- type: TermsOfService
+  url: https://www.vanu.com/terms-of-use/
+- type: LLMsTxt
+  url: llms/vanu-llms.txt
