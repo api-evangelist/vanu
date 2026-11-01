@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Vanu is a company surfaced as a portfolio company of norwest-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: unknown. This profile is a lead awaiting the enrichment pipeline.
+Vanu, Inc. builds wireless network solutions that extend cellular coverage to areas that cannot be profitably served with conventional technology - rural regions, buildings, tunnels, and maritime environments. Founded in 1998 out of MIT software-radio research and headquartered in Lexington, MA (with offices in Gurgaon, Bangalore, and Kigali), Vanu ships the Anywave dual-mode GSM/LTE base station (the first FCC-certified software-defined radio), Community Connect village systems, portable LTE networks, VanuMaps coverage mapping, and coverage-as-a-service for mobile carriers, with deployments across rural India, Rwanda, and post-hurricane Puerto Rico and partnerships with Amazon Leo / Project Kuiper. Vanu publishes no public developer API surface.
 
-Backed by: norwest-venture-partners — https://vanu.com
+**Areas:** Company · Telecommunications · Wireless · Cellular Networks · Rural Connectivity · Software Defined Radio · Network Infrastructure · Coverage Mapping
+
+## Vanu on APIs.io
+
+Everything profiled for Vanu is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vanu/](https://apis.io/providers/vanu/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Vanu Domain Security](https://apis.io/security/vanu/vanu-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.vanu.com)
+- [Support](https://www.vanu.com/services/technical-support/)
+- [Blog](https://www.vanu.com/news-insights/)
+- [Terms of service](https://www.vanu.com/terms-of-use/)
+- [Privacy policy](https://www.vanu.com/privacy-policy-2/)
+
+## API Evangelist rating
+
+**Kin Score 9.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 11.7** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/vanu/](https://apis.io/providers/vanu/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Vanu: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/vanu/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
